@@ -2,7 +2,9 @@ SEO-Friendly-URL-Checker
 ========================
 
 When this software you can check if all files that you are going to use in your website are SEO friendly.
-A URL is SEO friendly if it only have lower case letter a-z and we use - for split the words
+A URL is SEO friendly if it only have lower case letter a-z and we use - for split the words.
+
+It is only for Linux, I am trying to port to Windows.
 
 How to build:
 
