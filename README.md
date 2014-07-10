@@ -5,6 +5,7 @@ When this software you can check if all files that you are going to use in your 
 A URL is SEO friendly if it only have lower case letter a-z and we use - for split the words
 
 How to build:
+
 $ git clone https://github.com/ganchito55/SEO-Friendly-URL-Checker.git
 
 $ make
