@@ -6,7 +6,7 @@ A URL is SEO friendly if it only have lower case letter a-z and we use - for spl
 
 It is only for Linux, I am trying to port to Windows.
 
-![ScreenShot](http://subefotos.com/ver/?ebdcaf251b4b77f343f2a0361a5fd163o.png)
+![ScreenShot](https://raw.github.com/ganchito55/SEO-Friendly-URL-Checker/master/screenshot.png)
 
 How to build:
 
